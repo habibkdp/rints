@@ -7,7 +7,7 @@ $password = "Kikiekzx123";
 $collor = "0";
 
 // Pilih Jumlah Spin Saran 1 - 5
-$amount = "1";
+$amount = "3";
 
 
 
